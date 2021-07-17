@@ -2,8 +2,7 @@
 	"name": "@dmitriybaev/ajs",
 	"version": "1.0.0",
 	"description": "",
-	"main": " dist/index.js",
-	"entry point": " dist/index.js",
+	"main": "dist/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"build": "webpack --mode production"
